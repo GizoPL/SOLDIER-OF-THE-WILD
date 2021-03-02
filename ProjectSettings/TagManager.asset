@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GravityHelper
+  - LevelPassedCheckpoint
+  - Fuel
+  - Ammo
+  - Health
+  - Bullet
+  - Enemy
+  - CheckPoint
+  - BossCheckPoint
+  - GamePassedCheckpoint
+  - BulletEnemy
+  - FallingChecker
+  - DontFlyToHight
+  - Level
+  - Level1CP
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3866317457
+    locked: 0
+  - name: Entity
+    uniqueID: 3058150151
+    locked: 0
+  - name: FG
+    uniqueID: 118162387
+    locked: 0
